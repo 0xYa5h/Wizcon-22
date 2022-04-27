@@ -1,0 +1,1 @@
+PHP is tricky but also a very important programming language in the web. It's OK if you can't write a code but understanding a piece of code is a crucial skill to have.

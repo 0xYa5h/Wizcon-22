@@ -1,0 +1,1 @@
+Red has been trying to SolveSteganography challenges lately.But he made some mistakes along the way .He sent this file to us and asked us if we could solve this.
